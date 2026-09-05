@@ -1,0 +1,49 @@
+{
+  "cdp": {
+    "host": "127.0.0.1",
+    "port": 9222
+  },
+  "production": {
+    "folders": [
+      "C:\\Users\\NCN0C\\Downloads\\drive-download-20260817T123659Z-1-001"
+    ],
+    "daily_quota": 5,
+    "time_slots": [
+      "09:00",
+      "12:00",
+      "15:00",
+      "18:00",
+      "21:00"
+    ],
+    "start_date": "2026-09-24",
+    "cta_text": "👉 Cek bio untuk template! 🔗✨"
+  },
+  "targets": {
+    "channels": [
+      "Pptmorph",
+      "MahirPpt",
+      "ArifEx2146730",
+      "NAZWANURULILMI",
+      "EKA SYARIF MAULANA",
+      "ARIF-EX21"
+    ],
+    "fallback_all_personal_channels": true
+  },
+  "instagram": {
+    "enable_first_comment": true,
+    "first_comment_without_hashtags": true
+  },
+  "pinterest": {
+    "board": "PPT MORPH",
+    "section": "",
+    "destination_website": "https://clicky.id/arifex21"
+  },
+  "automation": {
+    "default_mode": "schedule",
+    "default_interval_hours": 2,
+    "start_delay_minutes": 30,
+    "auto_format_reels": true,
+    "wait_for_video_render_sec": 45,
+    "save_screenshots": true
+  }
+}
